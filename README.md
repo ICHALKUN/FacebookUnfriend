@@ -1,5 +1,5 @@
 # FacebookUnfriend
-Unfriend inactive users
+Unfriend inactive user
 
 © JANTER https://pastebin.com/kbsCFyAs
 
@@ -7,7 +7,7 @@ Recode by Dandy
 
 ## Install
       $ pkg install php
-      $ git clone https://github.com/ICHALKUN/UnfriendFB
+      $ git clone https://github.com/ICHALKUN/FacebookUnfriend
       $ cd FacebookUnfriend
 
 ## Run
